@@ -12,11 +12,6 @@
 - **Using maven** <br/>``` mvn spring-boot:run```
 
 
-- **From jar file**
-  Create a jar file using '**mvn clean install**' command and then execute
-  <br/>```java -jar target/spring-boot-2-hello-world-1.0.2-SNAPSHOT.jar```
-
-
 - **Directly from IDE**
   <br/>```Right click on HelloWorldApplication.java and click on 'Run' option```
   <br/><br/>
